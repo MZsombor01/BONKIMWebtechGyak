@@ -1,0 +1,31 @@
+<head>
+    <title>Szövegforrás: sortörés, szóköz</title>
+    <meta charset "UTF-8">
+    <meta bane "Generator" content = "szia">
+    <meta bane "Author" content = "XY">
+
+    <br></br>
+    Új sor, amit előző sor alá írunk.
+
+    <br></br> Bosch.
+
+    <strike>Ezt a szöveget szeretem.</strike>
+
+    <br></br>
+
+    Ebben a szövegben néhány szó <sub>lentebb</sub> néhány szó pedig <sup>fentebb</sup> lesz megjelenítve <br></br>
+    Ez egy <sup></sup> szó <sub(1)></sub>
+
+    <br></br>
+
+    (1) Ez egy lábjegyzet.
+
+    <br></br>
+
+    <strong>a2 = b2 + c2</strong>
+
+    <br></br>
+
+</body>
+
+</html>
